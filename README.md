@@ -4,6 +4,12 @@ This is our CS 411 (Software Architecture Design) course project at Bilkent Univ
 
 _Everybody asks WhatsApp, but no one asks HowsApp..._
 
+## Group Members
+* Cagatay Safak
+* Bora Fenari Kostem
+* Lamia Basak Amac
+* Alper Sari
+
 ## Instructions
 
 First, change directory to the actual project folder by typing:
