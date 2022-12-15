@@ -1,9 +1,8 @@
 # HowsApp
 
 This is our CS 411 (Software Architecture Design) course project at Bilkent University.
-Everybody asks WhatsApp, but no one asks HowsApp...
 
-[Create React App](https://github.com/facebook/create-react-app).
+_Everybody asks WhatsApp, but no one asks HowsApp..._
 
 ## Instructions
 
